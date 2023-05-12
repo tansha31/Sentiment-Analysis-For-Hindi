@@ -15,7 +15,7 @@ cd Sentiment-Analysis-For-Hindi
 
 2. [Download](https://drive.google.com/file/d/1Tqx3tX5pcBHFpy-04OsYODepjiRV2MMy/view?usp=share_link) and copy pytorch_model.bin to distil-bert folder.
 
-3. Install dependencies with [Pip](https://python-poetry.org/](https://pypi.org/project/pip) and activate virtual environment 🔨
+3. Install dependencies with [Pip](https://pypi.org/project/pip) and activate virtual environment 🔨
 
 ```bash
 pip install -r requirements.txt
