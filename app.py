@@ -13,7 +13,7 @@ with st.sidebar:
     )
     st.markdown(
         "This tool is a work in progress. "
-        "You can contribute to the project on [GitHub](https://github.com/mmz-001/knowledge_gpt) "
+        "You can contribute to the project on [GitHub](https://github.com/tansha31/Sentiment-Analysis-For-Hindi) "
         "with your feedback and suggestions. 💡"
     )
     st.markdown("---")
