@@ -13,7 +13,11 @@ git clone https://github.com/tansha31/Sentiment-Analysis-For-Hindi.git
 cd Sentiment-Analysis-For-Hindi
 ```
 
-2. [Download](https://drive.google.com/file/d/1Tqx3tX5pcBHFpy-04OsYODepjiRV2MMy/view?usp=share_link) and copy pytorch_model.bin to distil-bert folder.
+2. [Download](https://drive.google.com/file/d/1Tqx3tX5pcBHFpy-04OsYODepjiRV2MMy/view?usp=share_link) and copy pytorch_model.bin to distilBert folder.
+
+```bash
+mv pytorch_model.bin Sentiment-Analysis-For-Hindi/distilBert
+```
 
 3. Install dependencies with [Pip](https://pypi.org/project/pip) and activate virtual environment 🔨
 
