@@ -6,7 +6,7 @@ Accurate sentiment analysis for your documents and text in Hindi.
 
 ## 💻 Running Locally
 
-1. Clone the repository📂
+1. Clone the repository 📂
 
 ```bash
 git clone https://github.com/tansha31/Sentiment-Analysis-For-Hindi.git
@@ -36,5 +36,5 @@ python server.py
 
 ```bash
 cd Sentiment-Analysis-For-Hindi
-streamlit run main.py
+streamlit run app.py
 ```
